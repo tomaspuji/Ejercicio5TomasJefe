@@ -1,4 +1,4 @@
-#cambio de prueba de maria
+#cambio de prueba de Josep
 print("Enter the Binary Number: ", end="")
 bnum = int(input())
 
